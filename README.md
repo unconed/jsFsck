@@ -31,7 +31,7 @@ nzgfopsG':"<",'lWizd':-1001,'anbacvpmWAiuykxh':-8599,'toy':-9944})})()})();-9409
 It still works.... most of the time:
 
 ```
-eval(jsFuck('console.log("hello world");'));
+eval(jsFsck('console.log("hello world");'));
 ```
 
 ```
